@@ -20,7 +20,7 @@ Implement at least two algorithms with different complexity to find the count of
 * Text file contains the coordinates of rectangles under title “RECTANGLES”, the coordinates of points under title “POINTS”
 * In rectangles section, each line contains coordinates of one rectangle in format (id x1 y1 x2 y2).
 ![github2](https://user-images.githubusercontent.com/64116564/140199798-66b8ec53-92ed-45a3-9808-0c16482515c7.png)
-* In points section, each line contains coordinates of one point in format (id x y).
+* In points section, each line contains coordinates of one point in format (id x y).  
 ![hub1](https://user-images.githubusercontent.com/64116564/140199724-f3d80aae-3f54-4a9c-8ed7-185dadda6a3d.png)
 * LONG_MIN <= coordinates <= LONG_MAX
 * You have five data sets for testing.
