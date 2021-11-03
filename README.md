@@ -23,7 +23,7 @@ Implement at least two algorithms with different complexity to find the count of
 * In points section, each line contains coordinates of one point in format (id x y).  
 ![hub1](https://user-images.githubusercontent.com/64116564/140199724-f3d80aae-3f54-4a9c-8ed7-185dadda6a3d.png)
 * LONG_MIN <= coordinates <= LONG_MAX
-* You have five data sets for testing.
+* You have five data sets for testing.  
 https://drive.google.com/drive/folders/1Dzw4xd_vv_aU_xknHj6i4Yug-wzJGfU3
 ## Output
 * One text file for each test case contains in each line “rectangle_id points_count”
