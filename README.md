@@ -1,4 +1,4 @@
-# NumberOfPoints-Rectangle
+# Number of Points in each Rectangle
 
 ## Problem Formulation:
 You will have two sets. 
